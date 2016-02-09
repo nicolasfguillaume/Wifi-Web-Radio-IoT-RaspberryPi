@@ -5,3 +5,5 @@ This short script in Python operates a wifi web radio on a Raspberry Pi:
 - select one of them, live stream it and play it on external speakers
 - using the General Purpose Input/Output of the Raspberry Pi, adding a single button in order to switch to the next another station of the playlist (short button press) or turn off the device (long button press).  
 - displaying the radio station name and frequency on an LCD screen attached to the device
+
+![wifi radio](https://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker.jpg)
